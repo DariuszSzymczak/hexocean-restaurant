@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# HexOcean Restaurant App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created for the job interview and its include form with food ordering.
+
+Response from the API is in console. 
 
 ## first run
 
