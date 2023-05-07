@@ -8,11 +8,11 @@ Response from the API is in console.
 
 To install dependencies you need to run command:
 
-### npm install  
+### `npm install` 
 
 or
 
-### yarn
+### `yarn`
 
 
 ## Available Scripts
